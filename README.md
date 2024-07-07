@@ -4,7 +4,7 @@ Desde el lunes 8 hasta el domingo 14 de julio
 
 | Día           | Fecha  | Hora      | Punto de reunión                                             | Capitán         | Territorio/s                                                 |
 | ------------- | ------ | --------- | ------------------------------------------------------------ | --------------- | ------------------------------------------------------------ |
-| **Lunes**     | **8**  | 9.45 hrs. | Casa familia Espinoza - [Quitralco 6268](https://goo.gl/maps/mQCRL1tuu2vJwiDn8) | Héctor Espinoza | [10*](https://lh3.googleusercontent.com/pw/AP1GczPFqOGp5y71NTOXUJKVwZHOdsnwHdcOQ6T6LUvCcbKvaZOtO7joQ_DP95scJoKEwAVPz9BqgSIH-oWrtEW8ZOoC89S0pDTW7jtWktNPm8mI5ACEWw=w2400) |
+| **Lunes**     | **8**  | 9.45 hrs. | Casa familia Espinoza - [Quitralco 6268](https://goo.gl/maps/mQCRL1tuu2vJwiDn8) | Héctor Espinoza | 10* |
 | **Martes**    | **9**  | 9.45 hrs. | Casa familia Cubillos - [Quincheo 5894](https://goo.gl/maps/xJzwWzCdVJ38DnLZ6) | Lucas Tejo      | 12                                                           |
 | **Miércoles** | **10** | 9.45 hrs. | Casa familia Salas - [Tenquehuén 6186](https://maps.app.goo.gl/T38HmLMMmFtGgB5x9) | Enrique Vergara | 17                                                           |
 | **Jueves**    | **11** | 9.45 hrs. | Depto. familia Suárez - [Titán 4900 edificio El Canelo depto. 1405](https://goo.gl/maps/LoEgSwvXgAAsxK4p7) | Janaí Suárez    | 35                                                           |
